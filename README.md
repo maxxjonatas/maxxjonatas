@@ -27,14 +27,3 @@ Deixe-me apresentar... 🙇
   <img align="center" alt="Csharp" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/seuusuario">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
