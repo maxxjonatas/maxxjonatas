@@ -17,4 +17,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Csharp" height="40" width="50"
     src="https://www.svgrepo.com/show/452184/csharp.svg">
+  <img align="center" alt="Csharp" height="40" width="50"
+    src="https://brandlogovector.com/wp-content/uploads/2022/03/Garena-Icon-Logo-Small.png">
 </div>
