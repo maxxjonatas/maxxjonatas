@@ -16,5 +16,5 @@
   <img align="center" alt="JavaScript" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Csharp" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-orig.svg">
+    src="https://www.svgrepo.com/show/452184/csharp.svg">
 </div>
