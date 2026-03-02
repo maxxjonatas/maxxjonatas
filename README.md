@@ -6,7 +6,7 @@
 
 🚀 Sempre aprendendo e criando projetos
 
-## 🛠️ Tecnologias que domino
+## 🛠️ Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50"
