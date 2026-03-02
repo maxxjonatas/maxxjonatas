@@ -16,5 +16,7 @@
   <img align="center" alt="JavaScript" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Csharp" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    src="inalhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-orig.svg">
+  <img align="center" alt="Csharp" height="40" width="50"
+    src="https://pbs.twimg.com/profile_images/1279981431683416069/TDDTuN1l_400x400.jpg">
 </div>
