@@ -1,19 +1,10 @@
-## Saudações, viajante dos Reinos do Código! 🧙💻☄️
-Deixe-me apresentar... 🙇
+## Olá, bem-vindo ao meu perfil!
 
-🧙 Mentor das Artes Secretas da Tecnologia no Centro Paula Souza (FATEC/ETEC)
+💻 Estudante de Desenvolvimento de Sistemas
 
-📜 Portador do Pergaminho de Análise e Desenvolvimento de Sistemas
+🎓 2º ano na ETEC Registro
 
-🌐 Especialista nas Artes Secretas das Redes Estruturadas de Computadores
-
-📚 Estudioso da Tradição do Ensino e da Aprendizagem
-
-⚙️ Forjado nas Fornalhas do Conhecimento Técnico
-
-🎨 Encantado pela estética do UI/UX Design
-
-🕰️ Uma jornada de mais de uma década pelas Terras da TI
+🚀 Sempre aprendendo e criando projetos
 
 ## 🛠️ Tecnologias que domino
 
